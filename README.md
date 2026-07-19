@@ -31,4 +31,4 @@ No momento, meu foco é: melhorar meu inglês, publicar projetos consistentes no
 
 <p align="center"><b>Obrigado por visitar meu perfil!</b></p>
 
-<p align="center">Estou sempre aberto pra conversar sobre programação, projetos ou trocar uma ideia sobre carreira em tech.</p>
+<p align="center">Estou sempre aberto pra conversar sobre tecnologias, programação, projetos ou trocar uma ideia sobre carreira em tech!</p>
