@@ -1,7 +1,7 @@
 <h1 align="center">print("Hello, World!") 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFABC;Buscando+estágio+em+tecnologia;Python+%7C+SQL+%7C+Aprendendo+sempre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+e+Tecnologia+na+UFABC;Buscando+estágio+em+tecnologia;Python+%7C+SQL+%7C+Aprendendo+sempre" alt="Typing SVG" />
 </p>
 
 ---
