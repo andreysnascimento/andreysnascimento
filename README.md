@@ -6,7 +6,7 @@
 
 ---
 
-Sou estudante do **Bacharelado Interdisciplinar em Ciência e Tecnologia (BC&T)** na **UFABC**, seguindo para o curso específico de **Ciência da Computação** e construindo meu caminho para conseguir um estágio em tecnologia. Tenho connhecimento com **Python** e estou desenvolvendo projetos em **SQL** para portfólio. Gosto de aprender teoria antes de partir pra prática, e busco sempre entender o "porquê" das coisas, não só o "como".
+Sou estudante do **Bacharelado Interdisciplinar em Ciência e Tecnologia (BC&T)** na **UFABC**, seguindo para o curso específico de **Ciência da Computação** e construindo meu caminho para conseguir um estágio em tecnologia. Tenho conhecimento com **Python** e estou desenvolvendo projetos em **SQL** para portfólio. Gosto de aprender teoria antes de partir pra prática, e busco sempre entender o "porquê" das coisas, não só o "como".
 
 No momento, meu foco é: melhorar meu inglês, publicar projetos consistentes no GitHub e me preparar para processos seletivos de estágio na área de tecnologia.
 
