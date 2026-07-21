@@ -1,4 +1,4 @@
-<h1 align="center">git commit -m "primeiro commit: Hello, World!"</h1>
+<h1 align="center">Seja Bem-vindo ao meu perfil!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncia+e+Tecnologia+na+UFABC;Buscando+est%C3%A1gio+em+tecnologia;Python+%7C+SQL+%7C+Aprendendo+sempre" alt="Typing SVG" />
