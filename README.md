@@ -21,8 +21,8 @@ Right now, my focus is: improving my English, publishing consistent projects on 
 
 ### 🚀 Featured Projects
 
-- 🔤 **[Text Analyzer](https://github.com/andreysnascimento/analisador-de-texto)** — Python project with bilingual README
-- 🧮 **[Calculator](https://github.com/andreysnascimento/calculadora-basica)** — basic Python project, MIT licensed
+- 🔤 **[text-analyzer](https://github.com/andreysnascimento/text-analyzer)** — Python project with bilingual README
+- 🧮 **[basic-calculator](https://github.com/andreysnascimento/basic-calculator)** — basic Python project, MIT licensed
 - 📊 **[SQL-fictional-store](https://github.com/andreysnascimento/SQL-fictional-store)** — analysis of fictional store data
 
 ---
