@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello, World!")</h1>
+<h1 align="center">Welcome to my profile 🤝)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Science+and+Technology+student+at+UFABC;Looking+for+a+tech+internship;Python+%7C+SQL+%7C+Always+learning" alt="Typing SVG" />
