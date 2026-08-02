@@ -19,6 +19,16 @@ Right now, my focus is: improving my English, publishing consistent projects on 
 
 ---
 
+### 📚 Always Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 - 🔤 **[text-analyzer](https://github.com/andreysnascimento/text-analyzer)** — Python project with bilingual README
