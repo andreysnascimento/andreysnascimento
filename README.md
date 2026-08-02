@@ -1,42 +1,42 @@
 <h1 align="center">Welcome to my profile 🤝</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Science+and+Technology+student+at+UFABC;Looking+for+a+tech+internship;Python+%7C+SQL+%7C+Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Science+and+Technology+student+at+UFABC;Looking+for+a+tech+internship;Python+%7C+SQL+%7C+Always+learning" alt="Typing SVG" />
 </p>
 
 ---
 
-I'm a student in the **Interdisciplinary Bachelor's in Science and Technology (BC&T)** at **UFABC**, moving on to the specific **Computer Science** track and building my path toward a tech internship. I have knowledge of **Python** and I'm developing projects in **SQL** for my portfolio. I like learning theory before diving into practice, and I always try to understand the "why" behind things, not just the "how".
+I'm a student in the **Interdisciplinary Bachelor's in Science and Technology (BC&T)** at **UFABC**, moving on to the specific **Computer Science** track and building my path toward a tech internship. I have knowledge of **Python** and I'm building a portfolio in **SQL**. I like learning theory before diving into practice, and I always try to understand the "why" behind things, not just the "how".
 
-Right now, my focus is: improving my English, publishing consistent projects on GitHub, and preparing for tech internship selection processes.
+Right now, my focus is: improving my English, publishing consistent projects on GitHub, and preparing for tech internship selection processes — with interest in **cloud, data, and security**.
 
 ---
 
 ### 🌐 Languages
-
 - 🇧🇷 Portuguese — Native
 - 🇺🇸 English — Intermediate to Advanced
 
 ---
 
-### 📚 Currently Learning
-
+### 🛠️ Working With
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</p>
+
+### 📚 Currently Learning
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-
+- 📊 **[SQL-fictional-store](https://github.com/andreysnascimento/SQL-fictional-store)** — SQL/SQLite analysis of a fictional e-commerce dataset
 - 🔤 **[text-analyzer](https://github.com/andreysnascimento/text-analyzer)** — Python project with bilingual README
 - 🧮 **[basic-calculator](https://github.com/andreysnascimento/basic-calculator)** — basic Python project, MIT licensed
-- 📊 **[SQL-fictional-store](https://github.com/andreysnascimento/SQL-fictional-store)** — analysis of fictional store data
 
 ---
 
@@ -50,5 +50,4 @@ Right now, my focus is: improving my English, publishing consistent projects on 
 </p>
 
 <p align="center"><b>Thanks for visiting my profile!</b></p>
-
-<p align="center">Always open to talk about programming, projects, or a tech career chat.</p>
+<p align="center">Open to internship opportunities in cloud, data, or security — let's talk.</p>
