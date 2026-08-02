@@ -44,7 +44,7 @@ Right now, my focus is: improving my English, publishing consistent projects on 
   <a href="https://linkedin.com/in/andreysnascimento">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:andreysnascimento@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
