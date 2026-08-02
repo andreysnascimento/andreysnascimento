@@ -23,7 +23,7 @@ Right now, my focus is: improving my English, publishing consistent projects on 
 
 - 🔤 **[Text Analyzer](https://github.com/andreysnascimento/analisador-de-texto)** — Python project with bilingual README
 - 🧮 **[Calculator](https://github.com/andreysnascimento/calculadora-basica)** — basic Python project, MIT licensed
-- 📊 **SQL Portfolio** *(in progress)* — analysis of fictional store data
+- 📊 **[SQL-fictional-store](https://github.com/andreysnascimento/SQL-fictional-store)** — analysis of fictional store data
 
 ---
 
