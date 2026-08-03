@@ -5,7 +5,7 @@
 
 ---
 
-I'm a student in the **Interdisciplinary Bachelor's in Science and Technology (BC&T)** at **UFABC**, moving on to the specific **Computer Science** track and building my path toward a tech internship. I have knowledge of **Python** and I'm building a portfolio in **SQL**. I like learning theory before diving into practice, and I always try to understand the "why" behind things, not just the "how".
+I'm a student in the **Interdisciplinary Bachelor's in Science and Technology (BC&T)** at **UFABC**, moving on to the specific **Computer Science** track and building my path toward a tech internship. I have knowledge of **Python** and **SQL**. I like learning theory before diving into practice, and I always try to understand the "why" behind things, not just the "how".
 
 Right now, my focus is: improving my English, publishing consistent projects on GitHub, and preparing for tech internship selection processes — with interest in **cloud, data, and security**.
 
