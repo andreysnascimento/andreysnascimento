@@ -34,7 +34,7 @@ Right now, my focus is: improving my English, publishing consistent projects on 
 ---
 
 ### 🚀 Featured Projects
-- 📊 **[SQL-fictional-store](https://github.com/andreysnascimento/SQL-fictional-store)** — SQL/SQLpostgres analysis of a fictional e-commerce dataset
+- 📊 **[SQL-fictional-store](https://github.com/andreysnascimento/SQL-fictional-store)** — SQL/PostgreSQL analysis of a fictional e-commerce dataset
 - 🔤 **[text-analyzer](https://github.com/andreysnascimento/text-analyzer)** — Python project with bilingual README
 - 🧮 **[basic-calculator](https://github.com/andreysnascimento/basic-calculator)** — basic Python project, MIT licensed
 
