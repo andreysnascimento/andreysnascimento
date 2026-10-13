@@ -3,10 +3,14 @@
 Student at **UFABC** (Interdisciplinary Bachelor's in Science and Technology, moving into **Computer Science**), based in São Paulo, Brazil.
 I'm building my path toward **cloud and security**, and I like understanding the "why" behind things, not just the "how".
 
-<a href="https://www.credly.com/badges/22e3cd0b-f746-415f-9ac1-bc5479f4d2bf/public_url">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" width="120">
-</a>
-
+<p>
+  <a href="https://www.credly.com/badges/22e3cd0b-f746-415f-9ac1-bc5479f4d2bf/public_url">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/a2d8dfe9-c3cc-404d-965e-b6403fd25893">
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ec7b044a-3368-4bc3-8eaf-1872a41780b2.png" alt="Cisco Networking Basics" width="120">
+  </a>
+</p>
 ---
 
 ### 🚀 What I've built
