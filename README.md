@@ -8,7 +8,7 @@ I'm building my path toward **cloud and security**, and I like understanding the
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" width="120">
   </a>
   <a href="https://www.credly.com/badges/a2d8dfe9-c3cc-404d-965e-b6403fd25893">
-    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ec7b044a-3368-4bc3-8eaf-1872a41780b2.png" alt="Cisco Networking Basics" width="120">
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ec7b044a-3368-4bc3-8eaf-1872a41780b2.png" alt="Cisco Networking Basics" width="100">
   </a>
 </p>
 ---
